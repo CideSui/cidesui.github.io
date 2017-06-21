@@ -134,7 +134,7 @@ figure.project p {
 }
 figure.project h2 {
   word-spacing: -0.15em;
-  font-weight: 300;
+  font-weight: 100;
   text-transform: uppercase;
   -webkit-transform: translate3d(30%, 0%, 0);
   transform: translate3d(30%, 0%, 0);
